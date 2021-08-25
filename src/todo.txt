@@ -1,0 +1,7 @@
+In this tutorial, we'll be building a simple todo-list application. Our app will be able to do the following:
+    1. Add todo items
+    2. Edit todo items
+    3. Delete todo items
+    4. Filter todo items
+    5. Display useful stats
+Along the way, we'll cover atoms, selectors, atom families, and the hooks exposed by the Recoil API. We'll also cover optimization.
